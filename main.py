@@ -1108,7 +1108,7 @@ def webhook():
 # Code to run the bot below
 #########################################################################################################################################################
 
-WEBHOOK_URL = 'https://oduraa-bot-9c5d3251e8b1.herokuapp.com/'  
+WEBHOOK_URL = 'https://oduraa-bot.onrender.com/'  
 
 # Set the webhook for the bot
 bot.remove_webhook()
